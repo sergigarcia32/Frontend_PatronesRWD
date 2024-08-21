@@ -13,7 +13,7 @@ Bienvenido al proyecto **Frontend_PatronesRWD** de **Sergi García Jiménez**. E
 
 ## Crea una carpta img 
 
-Crea una carpeta img dentro de cada una de las capretas de los diferentes patrones y pon las imagenes de la siguiente url:
+Crea una carpeta img dentro de cada una de las capretas de los diferentes patrones y pon las imágenes de la siguiente url:
 https://drive.google.com/drive/folders/1fHFVQMntCYlhfEKoyUSEh3ode5Zy7m-H?usp=drive_link
 
 ## 📈 Cómo Ejecutar el Proyecto
